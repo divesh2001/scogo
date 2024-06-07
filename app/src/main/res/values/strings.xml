@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scogo</string>
+    <string name="title_activity_currency">CurrencyActivity</string>
+</resources>
